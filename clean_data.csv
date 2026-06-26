@@ -1,0 +1,6 @@
+id,first_name,last_name,age,email,department
+1,John,Doe,28.0,j.doe@email.com,ENGINEERING
+2,Jane,Smith,28.0,jane.s@email.com,MARKETING
+3,Carlos,Garcia,34.0,carlos@email.com,SALES
+4,Emily,Chen,22.0,NO_EMAIL_PROVIDED,ENGINEERING
+5,Michael,Brown,28.0,mikeb@email.com,HR
