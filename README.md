@@ -7,7 +7,8 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
 ### Phase 1: Data Analytics & Processing
 * **[Day 1: Automated Data Cleaner (Pandas)](#)** * *Tech:* Python, `pandas`
   * *Concept:* Ingested a messy CSV, removed duplicates, handled missing Null values dynamically, standardized text formatting, and exported an analysis-ready dataset.
-* **Day 2:** *(Coming Soon)*
+* * **[Day 2: SQL Window Functions Showcase](./Day-02-SQL-Window-Functions)** * *Tech:* SQL, Python (SQLite)
+  * *Concept:* Built a local database sandbox to execute advanced analytical window functions (`RANK()`, `LAG()`, and Running Totals) for tracking academic performance.
 * **Day 3:** *(Coming Soon)*
 * **Day 4:** *(Coming Soon)*
 * **Day 5:** *(Coming Soon)*
