@@ -1,0 +1,15 @@
+ACADEMIC REGISTRATION AND INVOICE REPORT
+Date Generated: 2026-06-30
+System Administrator Log
+
+Student Profile:
+Name: Saminathan M
+ID: SRM-2026-9941
+Contact: saminathan6327@gmail.com
+Status: Verified Student Enrollment Status
+
+Billing Particulars:
+Transaction Reference: TXN-772195-B
+Tuition Fee Paid: $1,250.00 USD
+Support Channel: academic.help@srmist.edu.in
+Next Evaluation Date: 2026-08-15

@@ -11,7 +11,8 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
   * *Concept:* Built a local database sandbox to execute advanced analytical window functions (`RANK()`, `LAG()`, and Running Totals) for tracking academic performance.
 * * **[Day 3: Dynamic Visual Report](./Day-03-Visual-Report-R)** * *Tech:* R, `ggplot2`
   * *Concept:* Developed an R script to ingest a tech salary dataset and automatically generate a presentation-ready scatter plot with linear regression trend lines.
-* **Day 4:** *(Coming Soon)*
+* * **[Day 4: Python PDF Data Extractor & Regex Parser](./Day-04-PDF-Extractor)** * *Tech:* Python, `re`, Text Parsing
+  * *Concept:* Built a text parsing automation engine utilizing Regular Expressions to search unstructured document logs and isolate strict target patterns like emails, dates, and alphanumeric reference tracking strings.
 * **Day 5:** *(Coming Soon)*
 
 ---
