@@ -13,7 +13,8 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
   * *Concept:* Developed an R script to ingest a tech salary dataset and automatically generate a presentation-ready scatter plot with linear regression trend lines.
 * * **[Day 4: Python PDF Data Extractor & Regex Parser](./Day-04-PDF-Extractor)** * *Tech:* Python, `re`, Text Parsing
   * *Concept:* Built a text parsing automation engine utilizing Regular Expressions to search unstructured document logs and isolate strict target patterns like emails, dates, and alphanumeric reference tracking strings.
-* **Day 5:** *(Coming Soon)*
+* * **[Day 5: Real-Time API Data Fetcher](./Day-05-API-Fetcher)** * *Tech:* Python, `requests`, JSON Parsing
+  * *Concept:* Built a live data consumer application that connects to an external financial API endpoint, validates network status codes, handles JSON payload decoding, and extracts target values into a clean real-time interface.
 
 ---
 *Developed by Saminathan Muruganantham*
