@@ -16,5 +16,13 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
 * * **[Day 5: Real-Time API Data Fetcher](./Day-05-API-Fetcher)** * *Tech:* Python, `requests`, JSON Parsing
   * *Concept:* Built a live data consumer application that connects to an external financial API endpoint, validates network status codes, handles JSON payload decoding, and extracts target values into a clean real-time interface.
 
+### Phase 2: Competitive Coding & Logic
+* **[Day 6: Algorithm Optimization (Two-Pointer)](./Day-06-Two-Pointer-Algo)** * *Tech:* Python, Big-O Notation
+  * *Concept:* Engineered a benchmarking tool to compare an $O(N^2)$ nested-loop brute force search against an $O(N)$ Two-Pointer algorithm, proving massive reductions in execution time for target-sum queries across large datasets.
+* **Day 7:** *(Coming Soon)*
+* **Day 8:** *(Coming Soon)*
+* **Day 9:** *(Coming Soon)*
+* **Day 10:** *(Coming Soon)*
+
 ---
 *Developed by Saminathan Muruganantham*
