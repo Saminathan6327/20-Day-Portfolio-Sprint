@@ -19,7 +19,8 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
 ### Phase 2: Competitive Coding & Logic
 * **[Day 6: Algorithm Optimization (Two-Pointer)](./Day-06-Two-Pointer-Algo)** * *Tech:* Python, Big-O Notation
   * *Concept:* Engineered a benchmarking tool to compare an $O(N^2)$ nested-loop brute force search against an $O(N)$ Two-Pointer algorithm, proving massive reductions in execution time for target-sum queries across large datasets.
-* **Day 7:** *(Coming Soon)*
+* **[Day 7: Sliding Window Algorithm Optimization](./Day-07-Sliding-Window)** * *Tech:* Python, Algorithm Design, Performance Benchmarking
+  * *Concept:* Built an efficiency analytics script showcasing how a sliding window algorithm drops time complexity from a redundant $O(N \times K)$ execution space to a highly efficient, single-pass $O(N)$ system for contiguous sub-array metrics.
 * **Day 8:** *(Coming Soon)*
 * **Day 9:** *(Coming Soon)*
 * **Day 10:** *(Coming Soon)*
