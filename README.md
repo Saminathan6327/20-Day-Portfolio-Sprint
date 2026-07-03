@@ -21,7 +21,8 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
   * *Concept:* Engineered a benchmarking tool to compare an $O(N^2)$ nested-loop brute force search against an $O(N)$ Two-Pointer algorithm, proving massive reductions in execution time for target-sum queries across large datasets.
 * **[Day 7: Sliding Window Algorithm Optimization](./Day-07-Sliding-Window)** * *Tech:* Python, Algorithm Design, Performance Benchmarking
   * *Concept:* Built an efficiency analytics script showcasing how a sliding window algorithm drops time complexity from a redundant $O(N \times K)$ execution space to a highly efficient, single-pass $O(N)$ system for contiguous sub-array metrics.
-* **Day 8:** *(Coming Soon)*
+* **[Day 8: Binary Search & Logarithmic Time](./Day-08-Binary-Search)** * *Tech:* Python, Algorithm Optimization
+  * *Concept:* Engineered a benchmarking script to search a 10-million record dataset, proving the immense efficiency of $O(\log N)$ Binary Search (24 steps) versus an $O(N)$ Linear Search (10 million steps).
 * **Day 9:** *(Coming Soon)*
 * **Day 10:** *(Coming Soon)*
 
