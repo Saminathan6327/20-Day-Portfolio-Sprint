@@ -23,7 +23,8 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
   * *Concept:* Built an efficiency analytics script showcasing how a sliding window algorithm drops time complexity from a redundant $O(N \times K)$ execution space to a highly efficient, single-pass $O(N)$ system for contiguous sub-array metrics.
 * **[Day 8: Binary Search & Logarithmic Time](./Day-08-Binary-Search)** * *Tech:* Python, Algorithm Optimization
   * *Concept:* Engineered a benchmarking script to search a 10-million record dataset, proving the immense efficiency of $O(\log N)$ Binary Search (24 steps) versus an $O(N)$ Linear Search (10 million steps).
-* **Day 9:** *(Coming Soon)*
+* **[Day 9: Hash Maps & Constant Time](./Day-09-Hash-Maps)** * *Tech:* Python, Data Structures
+  * *Concept:* Engineered a performance benchmark comparing $O(N)$ linear list searches against $O(1)$ Hash Map (dictionary) lookups, demonstrating instant data retrieval across a synthetic dataset of 5 million records.
 * **Day 10:** *(Coming Soon)*
 
 ---
