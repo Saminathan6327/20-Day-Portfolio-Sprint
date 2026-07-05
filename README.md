@@ -25,7 +25,8 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
   * *Concept:* Engineered a benchmarking script to search a 10-million record dataset, proving the immense efficiency of $O(\log N)$ Binary Search (24 steps) versus an $O(N)$ Linear Search (10 million steps).
 * **[Day 9: Hash Maps & Constant Time](./Day-09-Hash-Maps)** * *Tech:* Python, Data Structures
   * *Concept:* Engineered a performance benchmark comparing $O(N)$ linear list searches against $O(1)$ Hash Map (dictionary) lookups, demonstrating instant data retrieval across a synthetic dataset of 5 million records.
-* **Day 10:** *(Coming Soon)*
+* **[Day 10: Dynamic Programming & Memoization](./Day-10-Dynamic-Programming)** * *Tech:* Python, Recursion, Hash Maps
+  * *Concept:* Engineered a Dynamic Programming benchmark demonstrating how Hash Map caching (Memoization) reduces overlapping recursive subproblems, optimizing an $O(2^N)$ Fibonacci algorithm into a linear $O(N)$ runtime.
 
 ---
 *Developed by Saminathan Muruganantham*
