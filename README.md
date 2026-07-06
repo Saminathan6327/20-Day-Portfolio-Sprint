@@ -28,5 +28,12 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
 * **[Day 10: Dynamic Programming & Memoization](./Day-10-Dynamic-Programming)** * *Tech:* Python, Recursion, Hash Maps
   * *Concept:* Engineered a Dynamic Programming benchmark demonstrating how Hash Map caching (Memoization) reduces overlapping recursive subproblems, optimizing an $O(2^N)$ Fibonacci algorithm into a linear $O(N)$ runtime.
 
+### Phase 3: Applied AI & Machine Learning
+* **[Day 11: NLP Sentiment Analysis Engine](./Day-11-NLP-Sentiment-Analysis)** * *Tech:* Python, NLTK, VADER Lexicon
+  * *Concept:* Built a Natural Language Processing (NLP) pipeline that reads raw text streams and calculates mathematical polarity scores to automatically classify customer feedback as positive, negative, or neutral.
+* **Day 12:** *(Coming Soon)*
+* **Day 13:** *(Coming Soon)*
+* **Day 14:** *(Coming Soon)*
+* **Day 15:** *(Coming Soon)*
 ---
 *Developed by Saminathan Muruganantham*
