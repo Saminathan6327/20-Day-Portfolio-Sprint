@@ -33,7 +33,8 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
   * *Concept:* Built a Natural Language Processing (NLP) pipeline that reads raw text streams and calculates mathematical polarity scores to automatically classify customer feedback as positive, negative, or neutral.
 * **[Day 12: Predictive ML Model](./Day-12-Predictive-ML-Model)** * *Tech:* Python, Scikit-Learn, NumPy
   * *Concept:* Engineered a Machine Learning pipeline using Linear Regression to analyze historical employee data and independently predict continuous outcomes (salary) for unseen data points.
-* **Day 13:** *(Coming Soon)*
+* **[Day 13: Unsupervised AI & K-Means Clustering](./Day-13-Unsupervised-ML)** * *Tech:* Python, Scikit-Learn, K-Means
+  * *Concept:* Engineered an unsupervised machine learning pipeline using K-Means clustering to autonomously discover hidden mathematical patterns and segment unstructured customer financial data into distinct profiles.
 * **Day 14:** *(Coming Soon)*
 * **Day 15:** *(Coming Soon)*
 ---
