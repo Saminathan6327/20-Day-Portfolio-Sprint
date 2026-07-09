@@ -35,7 +35,8 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
   * *Concept:* Engineered a Machine Learning pipeline using Linear Regression to analyze historical employee data and independently predict continuous outcomes (salary) for unseen data points.
 * **[Day 13: Unsupervised AI & K-Means Clustering](./Day-13-Unsupervised-ML)** * *Tech:* Python, Scikit-Learn, K-Means
   * *Concept:* Engineered an unsupervised machine learning pipeline using K-Means clustering to autonomously discover hidden mathematical patterns and segment unstructured customer financial data into distinct profiles.
-* **Day 14:** *(Coming Soon)*
+* **[Day 14: Computer Vision & Edge Detection](./Day-14-Computer-Vision)** * *Tech:* Python, OpenCV, NumPy
+  * *Concept:* Engineered a Computer Vision pipeline that generates synthetic image data, processes color channels into grayscale, and applies the Canny Edge Detection algorithm to extract structural boundaries—simulating the foundational vision systems used in autonomous vehicles.
 * **Day 15:** *(Coming Soon)*
 ---
 *Developed by Saminathan Muruganantham*
