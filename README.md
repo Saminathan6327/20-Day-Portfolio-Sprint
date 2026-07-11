@@ -39,6 +39,8 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
   * *Concept:* Engineered a Computer Vision pipeline that generates synthetic image data, processes color channels into grayscale, and applies the Canny Edge Detection algorithm to extract structural boundaries—simulating the foundational vision systems used in autonomous vehicles.
 * **[Day 15: Deep Learning & Neural Networks](./Day-15-Neural-Networks)** * *Tech:* Python, Scikit-Learn, Multi-Layer Perceptrons (MLP)
   * *Concept:* Built a Deep Learning Neural Network featuring hidden layers and ReLU activation to solve complex non-linear classification problems (XOR logic), simulating a synthetic financial fraud detection engine.
-3. Push to GitHub:
+  * **[Day 16: RESTful API Development](./Day-16-REST-API)** * *Tech:* Python, FastAPI, Uvicorn, JSON
+  * *Concept:* Engineered a scalable REST API using FastAPI to handle HTTP POST requests, implementing request validation and dynamic data processing with JSON metadata responses.
+
 ---
 *Developed by Saminathan Muruganantham*
