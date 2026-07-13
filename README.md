@@ -43,6 +43,7 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
   * *Concept:* Engineered a scalable REST API using FastAPI to handle HTTP POST requests, implementing request validation and dynamic data processing with JSON metadata responses.
 * **[Day 17: Cloud Deployment & DevOps](./Day-17-Cloud-Deployment)** * *Tech:* Render, GitHub, FastAPI
   * *Concept:* Successfully containerized and deployed a local REST API to a live production environment on the public cloud using Render, implementing continuous integration from a GitHub repository.
-
+* **[Day 18: Web Scraping & Data Extraction](./Day-18-Web-Scraping)** * *Tech:* Python, BeautifulSoup4, Requests
+  * *Concept:* Engineered an automated web scraper to bypass basic bot-protections, execute HTTP requests, and parse complex DOM structures to extract targeted data (news headlines) from live websites.
 ---
 *Developed by Saminathan Muruganantham*
