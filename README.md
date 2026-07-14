@@ -45,5 +45,7 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
   * *Concept:* Successfully containerized and deployed a local REST API to a live production environment on the public cloud using Render, implementing continuous integration from a GitHub repository.
 * **[Day 18: Web Scraping & Data Extraction](./Day-18-Web-Scraping)** * *Tech:* Python, BeautifulSoup4, Requests
   * *Concept:* Engineered an automated web scraper to bypass basic bot-protections, execute HTTP requests, and parse complex DOM structures to extract targeted data (news headlines) from live websites.
+* **[Day 19: Task Automation & Cron Jobs](./Day-19-Task-Automation)** * *Tech:* Python, Schedule, Time, Background Processes
+  * *Concept:* Built a background automation bot that executes Python functions on strict time intervals, simulating server-side Cron jobs for automated data pipeline syncing and system maintenance.
 ---
 *Developed by Saminathan Muruganantham*
