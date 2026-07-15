@@ -47,5 +47,7 @@ Welcome to my technical portfolio sprint! Over 20 days, I am building 20 distinc
   * *Concept:* Engineered an automated web scraper to bypass basic bot-protections, execute HTTP requests, and parse complex DOM structures to extract targeted data (news headlines) from live websites.
 * **[Day 19: Task Automation & Cron Jobs](./Day-19-Task-Automation)** * *Tech:* Python, Schedule, Time, Background Processes
   * *Concept:* Built a background automation bot that executes Python functions on strict time intervals, simulating server-side Cron jobs for automated data pipeline syncing and system maintenance.
+* **[Day 20: Interactive Web Apps](./Day-20-Streamlit-WebApp)** * *Tech:* Python, Streamlit, Frontend Development
+  * *Concept:* Engineered a multi-page interactive web application using Streamlit to serve as a graphical frontend for data processing and visualization, marking the completion of the 20-Day Portfolio Sprint.
 ---
 *Developed by Saminathan Muruganantham*
